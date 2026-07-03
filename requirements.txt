@@ -1,0 +1,6 @@
+streamlit>=1.32
+pandas>=2.0
+requests>=2.31
+feedparser>=6.0
+nltk>=3.8
+plotly>=5.20
