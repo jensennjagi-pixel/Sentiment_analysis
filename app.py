@@ -16,7 +16,7 @@ from sentiment_analysis import score_dataframe, aggregate_by_broker_day, broker_
 
 st.set_page_config(page_title="UK Electricity Broker Sentiment", layout="wide")
 
-st.title("⚡ UK Electricity Broker Sentiment Tracker")
+st.title("UK Electricity Broker Sentiment Tracker")
 st.caption(
     "News-based sentiment analysis of UK electricity/business-energy brokers. "
     "Currently running on sample data — swap in a NewsAPI key to go live."
